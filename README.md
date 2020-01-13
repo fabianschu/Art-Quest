@@ -5,7 +5,7 @@ Give your next visit of the Metropolitan Museum in NYC greater aim. Art Quest wi
 Visiting a huge museum, such as the Metropolitan, can be overwhelming for the vistor. Just like music, people like different types of art. In a big museum, chances are that you spend a lot of time walking through the halls and searching for pieces that you like. Wouldn't it be nice to have a little mobile helper to help you finding artworks that you actually like?
 
 ## Features and Logic
-![](beLogic.png =400x)
+![](beLogic.png)
 
 In the first screen the user has to indicate, which type of art she is interested in (paintings vs scultupres vs ...). Let's say the user chose paintings. This information is then used to make a query to the Metropolitan Museum API. In this query, we ask for all paintings that are currently on display in the museum and in order to guarantuee a minimum of diversity in the paintings that e show to the user in the next screen, we ask for paintings from different periods.
 
